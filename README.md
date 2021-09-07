@@ -26,4 +26,8 @@ In summation, the index data strongly indicates that pandemic activity leads to 
 
 ## Section 2:
 
-## Section 3:
+## Section 3: Researched and put into visualization the correlations between certain categories of stocks and how they were and still are uniquely affected by the Covid-19 pandemic.  Looked at stocks that involve travel and human contact, as well as stocks are are completely digital, such as Zoom and Facebook. For example, in the graph below, you can see that some stocks had a positive reaction to the pandemic. ![download](https://user-images.githubusercontent.com/85895812/132405982-878f650f-a0d6-46b4-8293-75a4b22d8a79.png)
+This raises some questions about the economy's overall health and reaction to a pandemic, such as: Is the entire market always affected?  What parts of the market are hurt by it and which ones flourish from it?  Why do some stocks rebound beyond their original position, why others stay down?
+It seems there are lots of different factors that can be looked at.  For example, the stock price for United Airlines has remained down since the pandemic hit, where as the stock price for Six Flags has rebounded higher than ever, even though both involve contact with other people.  Some factors to consider are: Travel Regulations of other countries, which could be why flights are still hurting.  Also, vaccination and people's general feeling of wanting to go back to "normal" may be a contributing factor for stocks involving themeparks and movie theaters etc. to rebound.
+
+
