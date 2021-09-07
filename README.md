@@ -1,5 +1,7 @@
 # Project-1 Final Write-Up
 
+Presentation: https://docs.google.com/presentation/d/1-4dF2DChIU2I0XD3FN9EB1t10tX8XLa15NWx-IifCHs/edit?usp=sharing
+
 ## Section 1: S&P500 Index Before and After Pandemic Began
 
 Examined index historical data to determine broad impact of the pandemic on market trends.
