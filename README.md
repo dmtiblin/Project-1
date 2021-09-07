@@ -28,7 +28,7 @@ In summation, the index data strongly indicates that pandemic activity leads to 
 
 ## Section 3: 
 
-Researched and put into visualization the correlations between certain categories of stocks and how they were and still are uniquely affected by the Covid-19 pandemic.  Looked at stocks that involve travel and human contact, as well as stocks are are completely digital, such as Zoom and Facebook. For example, in the graph below, you can see that some stocks had a positive reaction to the pandemic. 
+Researched and put into visualization the correlations between certain categories of stocks and how they were and still are uniquely affected by the Covid-19 pandemic.  Looked at stocks that involve travel and human contact, as well as stocks that rely completely on digital environments, such as Zoom and Facebook. For example, in the graph below, you can see that some stocks had a positive reaction to the pandemic. 
 
 ![download](https://user-images.githubusercontent.com/85895812/132405982-878f650f-a0d6-46b4-8293-75a4b22d8a79.png)
 
