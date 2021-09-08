@@ -26,9 +26,17 @@ In 2020 however, the mean of the price amplitude was $5.47, the standard deviati
 
 In summation, the index data strongly indicates that pandemic activity leads to price instability over the course of the day.  This information could be useful for day-traders looking to make money in the future.
 
-## Section 2:
+## Section 2:Looking at trends and relationship between variables throughout the pandemic
 
-## Section 3: 
+For all the noise surrounding stock market panic, you can see in the graphs that after the initial panic/crash at the beginning of the pandemic, it seemed to really just resume normal upward course. It only took about 6 months to reverse the loss of value from the initial crash and has been steadily climbing since, seemingly unaffected by the highs and lows of the pandemic. There appears to be only some minor mirror effect happening early on in those first 6 months or so. Most interestingly this seems to confirm a buy-and-hold strategy, even in the midst of this volatile time. Anyone invested in a market index would have roughly doubled their value since the initial crash. 
+
+The correlation between the S&P price and COVID cases is only .3 for the duration of the pandemic. As you can see in the graph, the shape of their relationship takes the same shape as the pandemic over time. The relationship between them would appear to be better explained simply by time passed, in that stock price went up over time. 
+
+While the relationship between # of Daily new COVID cases and % change in stock price shows nearly zero correlation, there do appear to be some visual trends in the scatter plot. One might assume that more COVID cases would mean more volatility in the world, and hence reflected in the stock price. However, the stock price appears to be most stable while the cases are higher, for the most part hovering near 0 % change. More volatility can be seen at the lower end of the # of COVID cases. This most likely has to do with the initial market crash at the beginning of the pandemic when cases were still naturally low, but you can also see both more and larger increases in stock price at the lower end as wel. This could confirm evidence of more individuals getting back into the market at time when cases are at their lowest, while individuals already in the market at the worst times in the pandemic appear to be primarily holding instead of panic selling. 
+
+One trend that occured during the pandemic is the idea that large #s of indivduals were jumping into the market day-trading cheaply via Robinhood, out of sheer pandemic boredom. We wanted to see if that trend was confirmed, and if trading volume stayed high throughout the pandemic, returned to more normal levels as we also returned to more normal activities, or spiked everytime the pandemic worsened. You can see the large spike in trading in the first month or so of the pandemic and then it sort of tapers off to a more even level. There does appear to be some degree of volatility but likely unrelated to straight COVID cases/concerns of a worsening pandemic. There doesn’t appear to be a large correlation between the trading volume and new COVID cases, only -.3
+
+## Section 3:
 
 Researched and put into visualization the correlations between certain categories of stocks and how they were and still are uniquely affected by the Covid-19 pandemic.  Looked at stocks that involve travel and human contact, as well as stocks that rely completely on digital environments, such as Zoom and Facebook. For example, in the graph below, you can see that some stocks had a positive reaction to the pandemic. 
 
