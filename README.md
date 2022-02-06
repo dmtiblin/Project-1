@@ -3,6 +3,7 @@
 Presentation: https://docs.google.com/presentation/d/1-4dF2DChIU2I0XD3FN9EB1t10tX8XLa15NWx-IifCHs/edit?usp=sharing
 
 ## Section 1: S&P500 Index Before and After Pandemic Began
+Authored by Galen Kellner
 
 Examined index historical data to determine broad impact of the pandemic on market trends.
 
@@ -26,7 +27,8 @@ In 2020 however, the mean of the price amplitude was $5.47, the standard deviati
 
 In summation, the index data strongly indicates that pandemic activity leads to price instability over the course of the day.  This information could be useful for day-traders looking to make money in the future.
 
-## Section 2:Looking at trends and relationship between variables throughout the pandemic
+## Section 2: Looking at trends and relationship between variables throughout the pandemic
+Authored by Diane Tiblin 
 
 For all the noise surrounding stock market panic, you can see in the graphs that after the initial panic/crash at the beginning of the pandemic, it seemed to really just resume normal upward course. It only took about 6 months to reverse the loss of value from the initial crash and has been steadily climbing since, seemingly unaffected by the highs and lows of the pandemic. There appears to be only some minor mirror effect happening early on in those first 6 months or so. Most interestingly this seems to confirm a buy-and-hold strategy, even in the midst of this volatile time. Anyone invested in a market index would have roughly doubled their value since the initial crash. 
 
@@ -47,6 +49,7 @@ One trend that occured during the pandemic is the idea that large #s of indivdua
 ![Image of scatter plot comparing Covid cases & Trading volume](https://github.com/kellnergp/Project-1/blob/main/Final/OutputData/DailyCases_TradingVolume_Scatter.png)
 
 ## Section 3:
+Authored by Thomas Martin
 
 Researched and put into visualization the correlations between certain categories of stocks and how they were and still are uniquely affected by the Covid-19 pandemic.  Looked at stocks that involve travel and human contact, as well as stocks that rely completely on digital environments, such as Zoom and Facebook. For example, in the graph below, you can see that some stocks had a positive reaction to the pandemic. 
 
